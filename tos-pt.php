@@ -3,15 +3,15 @@ define( 'suporte2', 'Termos de Uso' );
 
 define( 'suporte3', 'Por favor disponibilize um pouco de seu tempo para ler atentamente as regras que se seguem abaixo.
 
-Se você concordar com elas, seja bem vindo a nossa comunidade e divirta-se no GITZ.
+Se você concordar com elas, seja bem-vindo a nossa comunidade e divirta-se no GITZ.
 
-A leitura dessas regras são parte importante para o aprimoramento da qualidade de nosso servidor. Com o respeito a elas nossa comunidade tende a crescer e melhorar cada vez mais.
+A leitura dessas regras são parte importante para o aprimoramento da qualidade de nosso servidor. Com o respeito a elas, nossa comunidade tende a crescer e melhorar cada vez mais.
 
-Nada neste site, no servidor ou no fórum é afiliado a empresa criadora do Gunbound, Softnyx. Nenhum lucro é redirecionado para a mesma ou para alguma empresa pública.
+Nada neste site, no servidor ou no fórum é afiliado a empresa criadora do GunbBound, Softnyx. Nenhum lucro é redirecionado para a mesma ou para alguma outra empresa.
 
-O servidor GITZ é voltadado para a diversão privada de pessoas que optam por um atendimento mais organizado e eficaz, tendo seu arrecadamento voltado especificamente para a manutenção, crescimento e estabilidade do servidor.
+O servidor GITZ é voltadado para a diversão de pessoas que optam por um atendimento mais organizado e eficaz, tendo seu arrecadamento voltado especificamente para a manutenção, crescimento e estabilidade do servidor.
 
-Somos uma equipe séria e convicta que trabalha constantemente para trazer diversão e entreterimento para nossos jogadores.
+Somos uma equipe séria e convicta que trabalha constantemente para trazer diversão e entretenimento para nossos jogadores.
 
 Sendo assim, seguem-se as regras abaixo.
 
@@ -25,11 +25,11 @@ Sendo assim, seguem-se as regras abaixo.
 
 Ao ingressar em nosso servidor você, jogador, confirma que leu e concordou com as regras estabelecidas no Termo de Uso que se segue. 
 
-Lembre-se, você estará participando de uma comunidade privada nomeada GITZ, a qual NÃO possui qualquer tipo de filiação com a criadora do game entitulado Gunbound.
+Lembre-se, você participará de uma comunidade privada nomeada GITZ, a qual NÃO possui qualquer tipo de filiação com a criadora do game entitulado Gunbound.
 
 Você estará sujeito às regras do site e do fórum, dentro ou fora do jogo, independentemente de quem você seja. 
 
-Nenhum tipo de distinção será feita entre os jogadores, seja por sua raça, cor, etnia, nacionalidade, gênero. 
+Nenhum tipo de distinção será feito entre os jogadores, seja por sua raça, cor, etnia, nacionalidade, gênero, etc. 
 
 
 #2 Seu Serviço
@@ -38,13 +38,13 @@ Nenhum tipo de distinção será feita entre os jogadores, seja por sua raça, c
 
 O nosso website e nosso fórum foram criados para manter a comunicação entre a equipe de Staff e os Jogadores, e para disponibilizar um contato mais imediato, seguro e eficaz a fim de solucionar qualquer ocorrência que possa vir a prejudicar a diversão da comunidade.
 
-Diponibilizamos também um sistema de ticket para atendimento de solicitações, telefone direto com o GameMaster e contato via email com a equipe Staff, tornando nosso serviço rapido e eficiente.
+Disponibilizamos também um sistema de ticket para atendimento de solicitações, telefone direto com o GameMaster e contato via e-mail com a equipe Staff, tornando nosso serviço rápido e eficiente.
 
 Caso você venha a visualizar algum ato ilegal dentro ou fora do jogo, por favor nos contate o mais rápido possível, assim solucionaremos o problema com maior rapidez.
 
-Lembre-se, ao ingressar em nossa comunidade você deve respeito à todos os jogadores, independemente de sua raça, cor, crenças, etnia, nacionalidade. Qualquer ato de ofensa dessa natureza será considerada uma infração gravissima com punições a altura.
+Lembre-se, ao ingressar em nossa comunidade você deve respeito a todos os jogadores, independentemente de sua raça, cor, crenças, etnia, nacionalidade. Qualquer ato de ofensa dessa natureza será considerado uma infração gravíssima com punições a altura.
 
-A Administração incentiva fortemente que qualquer injustiça presenciada dentro do jogo e/ou do forum seja denunciada para que as atitudes necessárias sejam tomadas.
+A Administração incentiva fortemente que qualquer injustiça presenciada dentro do jogo e/ou do fórum seja denunciada para que as atitudes necessárias sejam tomadas.
 
 #3 Seu Dever
 
@@ -68,11 +68,11 @@ Esteja sempre olhando esses termos, pois serão sempre atualizados por nós da E
 
 Para se registrar é necessário a criação de um &quot;login&quot;, o qual você usará no &quot;launcher&quot; do Gunbound para se conectar ao nosso servidor.
 
-Este login será sempre o mesmo, enquanto você podera mudar o seu Game ID, nome fict&iacute;cio usado dentro do servidor.
+Este login será sempre o mesmo, enquanto você poderá mudar o seu Game ID, nome fict&iacute;cio usado dentro do servidor.
 
 Precisará também criar uma senha com até 10 d&iacute;gitos e se poss&iacute;vel trocá-la de mês em mês, garantindo assim, a sua segurança.
 
-Você deve inserir dados originais e corretos, pois nas premiações de eventos, seus dados serão avalidos, qualquer erro você poderá perder o que iria ganhar.
+Você deve inserir dados originais e corretos, pois nas premiações de eventos, seus dados serão avaliados, qualquer erro você poderá perder o que iria ganhar.
 
 O Gitz e sua staff não se responsabilizam por vazamentos de dados ocasionados por atitudes do jogador. Cabe a cada usuário a proteção de seu login e senha para evitar problemas como o acesso de terceiros a sua conta e/ou relacionados.
 
@@ -81,7 +81,7 @@ O Gitz e sua staff não se responsabilizam por vazamentos de dados ocasionados p
 
 ******************
 
-De tempos em tempos o servidor GITZ, afim de reduzir possiveis &quot;Lags&quot;, apaga contas inativas.
+De tempos em tempos o servidor GITZ, afim de reduzir possíveis &quot;Lags&quot;, apaga contas inativas.
 
 Contas com mais de 2 anos de inatividade (sem registro de acesso) estão sujeitas a serem deletadas, não sendo possível a sua recuperação.
 
@@ -92,7 +92,7 @@ Os itens adquiridos com Cash poderão ser recuperados, seguindo o procedimento e
 
 *****************
 
-O GunBound GITZ permite a criação de contas paralelas, contanto que não sejam usadas para ganho de terceiros ou pessoal: (free kill, cumprir eventos, falsidade ideológica, estelionato, divulgação, etc)
+O GunBound GITZ permite a criação de contas paralelas, contanto que não sejam usadas para ganho de terceiros ou pessoal: (free kill, cumprir eventos, falsidade ideológica, estelionato, divulgação etc.)
 
 Caso você tenha cometido conduta ilegal perante as regras em uma conta fake, todas as contas relacionadas a esta conta serão banidas, incluindo sua conta original.
 
@@ -116,11 +116,11 @@ Algumas regras devem ser seguidas para a realização do procedimento, sendo ela
 
 *****************
 
-As unicas informações possíveis de serem alteradas após a criação de conta é: NickName (após alcançar 2.000 GPs), E-mail (caso tenha acesso ao email atual ou caso se comprove que o jogador solicitante acessa a conta por um período mínimo de 1 ano), País (caso o país real do jogador esteja incorreto e/ou tenha se alterado), Senha.
+As únicas informações possíveis de serem alteradas após a criação de conta é: NickName (após alcançar 2.000 GPs), E-mail (caso tenha acesso ao e-mail atual ou caso se comprove que o jogador solicitante acessa a conta por um período mínimo de 1 ano), País (caso o país real do jogador esteja incorreto e/ou tenha se alterado), Senha.
 
 O Login do Usuário - aquele utilizado para acesso no launcher do jogo - não poderá ser alterado. É responsabilidade do usuário o cuidado com seu UserName, a fim de evitar perda do acesso a conta. 
 
-Recomendamos que cada jogador mantenha um registro do Login escolhido para evitar possiveis esquecimentos. 
+Recomendamos que cada jogador mantenha um registro do Login escolhido para evitar possíveis esquecimentos. 
 
 
 #9 Transferência de Cash
@@ -147,11 +147,11 @@ Temos o direito de punir os jogadores de acordo com as regras. O usuário poder�
 
 Neste caso, o jogador poderá solicitar o RESET de sua conta (todos os GPs, bonificações e Gold são removidos). 
 
-As punições permanentes tem o unico objetivo de retirar da comunidade jogadores que possuem um histórico de ofensas e desrespeitos constante. 
+As punições permanentes têm o único objetivo de retirar da comunidade jogadores que possuem um histórico de ofensas e desrespeitos constante. 
 
 Ao realizar o procedimento de reset, o jogador tem acesso novamente a conta sem perder nada que comprou com o seu dinheiro.
 
-O servidor contrata uma proteção anti cheating com a mais alta técnologia para combate do uso de programas ilegais. Esta proteção monitora, a pedido do ADMIN, a tela do jogador em tempo real.
+O servidor contrata uma proteção anti cheating com a mais alta tecnologia para combate do uso de programas ilegais. Esta proteção monitora, a pedido do ADMIN, a tela do jogador em tempo real.
 
 Ao ingressar no servidor todos os jogadores tem a ciência e autorizam o monitoramento de sua tela por parte do programa anticheating.*
 
@@ -162,7 +162,7 @@ Ao ingressar no servidor todos os jogadores tem a ciência e autorizam o monitor
 
 Ao utilizar nossos serviços você declara que leu e concordou com os Termos de Uso do nosso Servidor. 
 
-Seja bem vindo à comunidade GITZ!
+Seja bem-vindo à comunidade GITZ!
 
 			
 
@@ -184,7 +184,7 @@ define( 'suporte5', '<p align="center"><strong>Leia com atenção as Regras do  
 
 O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, portanto nenhuma punição será injustificada e qualquer jogador que se sentir lesado por atitudes da Staff são fortemente encorajados a abrir um ticket. </span></p><br><br>
 
-	A aplicação das punições em nosso servidor são feitas por seres humanos que estão sujeitos ao erro. Caso sinta que alguma punição aplicada a sua conta não deveria ter sido aplicada, comunique-nos imediatamente para que a questão seja apreciada. 
+	A aplicação das punições em nosso servidor é feita por seres humanos que estão sujeitos ao erro. Caso sinta que alguma punição aplicada a sua conta não deveria ter sido aplicada, comunique-nos imediatamente para que a questão seja apreciada. 
 
 		<br>
 
@@ -252,7 +252,7 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 
 						<span class="infodesc">1.9 Scam - O que é?</span><br />
 
-						Refere-se a scam todo ato de enganar outros jogadores para beneficio próprio. Exemplo mais comum são títulos de salas prometendo algo a alguém: "JOGA 10 E GANHA AVATAR/CASH", o que poderia induzir jogadores a jogar em salas que não tinha a intenção.
+						Refere-se a scam todo ato de enganar outros jogadores para benefício próprio. Exemplo mais comum são títulos de salas prometendo algo a alguém: "JOGA 10 E GANHA AVATAR/CASH", o que poderia induzir jogadores a jogar em salas que não tinha a intenção.
 
 							1&ordm; infração - Advertência verbal<br />
 
@@ -279,7 +279,7 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 							3&ordm; infração - Ban permanente.<br><br>
 
 						<span class="infodesc">1.13 Misoginia - o que é? </span><br />
-						Misoginia é o ato de ofender a honra/integridade de uma pessoa por conta de seu gênero. É um tipo de ofensa destinada 						especialmente a mulheres; Por ser um ato constante no universo dos games, a equipe GITZ, em respeito e admiração ao seu publico feminino, criou essa regra para punir particularmente esse tipo de infração.
+						Misoginia é o ato de ofender a honra/integridade de uma pessoa por conta de seu gênero. É um tipo de ofensa destinada 						especialmente a mulheres; Por ser um ato constante no universo dos games, a equipe GITZ, em respeito e admiração ao seu público feminino, criou essa regra para punir particularmente esse tipo de infração.
 
 						Será considerado infração de misoginia ataques exagerados de ódio e rancor que ferem à honra de pessoas do sexo 						feminino.
 
@@ -297,7 +297,7 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 						- Racismo/Homofobia/Xenofobia/Discriminação/Misoginia</b><br><br>
 							A fim de deter o uso excessivo de denúncias relativas a atitudes de desrespeito, e que por vezes levaram jogadores a punições "banais", a equipe do GITZ decidiu não agir em casos de ofensas corriqueiras entre os jogadores. É normal que em um jogo competitivo haja uma certa tensão entre os usuários, portanto - desde que não seja exagerado - a staff não tomará atitudes diretas naquelas ofensas consideradas "banais" e corriqueiras.<br><br>
 
-							Salientamos, no entanto, que os atos de desrespeito são fortemente desencorajados e pedimos que todos os jogadores tenham bom senso para que a comunidade GITZ não perca seu objetivo principal, que é a união e o respeito mutuo entre os jogadores.
+							Salientamos, no entanto, que os atos de desrespeito são fortemente desencorajados e pedimos que todos os jogadores tenham bom senso para que a comunidade GITZ não perca seu objetivo principal, que é a união e o respeito mútuo entre os jogadores.
 						
 
 							1&ordm; infração - 72hrs banido + mute global no jogo após o término do banimento por +72 horas<br />
@@ -308,7 +308,7 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 
 							<span class="infodesc">§ Caso a ofensa seja de cunho sexual.</span><br />
 							<b>Exemplos passíveis de ofensas:
-						- vadia, puta, prostituta, vagabunda, piranha, etc.</b><br><br>
+						- Vadia, puta, prostituta, vagabunda, piranha, etc.</b><br><br>
 
 							1º+ infração - Mute global no jogo (O tempo do mute será definido através de uma avaliação do GM responsável)<br><br />
 
@@ -321,7 +321,7 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 							3ª Infração - Bloqueio de 60 dias da buzina.<br /><br>
 
 							<b>Observação:</b><br>
-							Os comandos são criados com um propósito de promover melhorias, interatividade e diversidade dentro do servidor. Por isso o mal uso destes  ou de qualquer outro que vier a ser criado são passíveis de punições de acordo com o julgamento da staff.<br><br>
+							Os comandos são criados com um propósito de promover melhorias, interatividade e diversidade dentro do servidor. Por isso o mal uso destes ou de qualquer outro que vier a ser criado são passíveis de punições de acordo com o julgamento da staff.<br><br>
 
 						<span class="infodesc">1.16 Criação de boatos maldosos contra STAFF/Servidor.</span><br />
 						É tudo aquilo infundado cujo não existe prova para se alegar.<br>
@@ -341,12 +341,12 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 						Esta prática ocorre no x1 e consiste em forçar os mobiles com auxílio de itens de cura a fazer o máximo de dano possível (3k) e consequentemente obter um ganho anormal de Gold e GP durante a partida. Geralmente é feita em combinação, por este motivo a consideramos ilegal.<br><br>
 
 						<b>Existe limite de partidas contra o mesmo jogador? </b><br>
-						R: Não, mas contamos com o bom senso de cada jogador. Se identificarmos partidas que consideremos "abuser", o GP ganho nas partida será retirado da conta e os jogadores notificados. Não recomendamos que se tranquem em uma sala com os mesmos jogadores por longos períodos de tempo.<br><br>
+						R: Não, mas contamos com o bom senso de cada jogador. Se identificarmos partidas que consideremos "abuser", o GP ganho nas partidas será retirado da conta e os jogadores notificados. Não recomendamos que se tranquem em uma sala com os mesmos jogadores por longos períodos de tempo.<br><br>
 
 						<br><b>Posso jogar contra um ou mais jogadores usando o mesmo IP?</b><br>
 						R: Sim, no entanto deve-se tomar mais cuidado quando se há uma diferença notória de habilidade entre um e outro.<br>
 						Por exemplo: Em uma sequência de x1 você ganhar 9 de 10 partidas, ou em uma sequência maior em que você ganhe 90% dos jogos.<br>
-						Nessa situação aconselhamos que joguem no mesmo time, pois da mesma forma que poderiam estar jogando honestamente, também existe a possibilidade de que a pratica do Free Kill esteja correndo. Nesses casos, a STAFF não consegue saber qual das duas situações está ocorrendo, portanto, depositamos no bom senso de cada jogador. Recomendamos que evitem esse tipo de situação. <br><br>
+						Nessa situação aconselhamos que joguem no mesmo time, pois da mesma forma que poderiam estar jogando honestamente, também existe a possibilidade de que a prática do Free Kill esteja correndo. Nesses casos, a STAFF não consegue saber qual das duas situações está ocorrendo, portanto, depositamos no bom senso de cada jogador. Recomendamos que evitem esse tipo de situação. <br><br>
 
 							1&ordm; infração - Remoção de 15 dias de GP<br />
 
@@ -402,7 +402,7 @@ O servidor GITZ preza pelos principios da ampla defesa e do contraditorio, porta
 
 						' );
 
-Ao se registrar no website e ingressar na comunidade GITZ GUNBOUND você estará sob a jurisdição das regras aqui epxlicitadas. Recomendamos a leitura de cada topico com calma. A equipe está a disposição para eventuais duvidas ou questionamentos que surgirem com a leitura das regras. 
+Ao se registrar no website e ingressar na comunidade GITZ GUNBOUND você estará sob a jurisdição das regras aqui epxlicitadas. Recomendamos a leitura de cada topico com calma. A equipe está a disposição para eventuais dúvidas ou questionamentos que surgirem com a leitura das regras. 
 
 Consideramos o FEEDBACK parte importante para o crescimento de nosso jogo!
 
